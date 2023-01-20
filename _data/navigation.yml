@@ -2,11 +2,11 @@
   url: "/"
   side: left
 
-- title: Getting Started
+- title: AI
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "BlockChain"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "CS"
   url: "/headers/"
   side: left
   dropdown:
