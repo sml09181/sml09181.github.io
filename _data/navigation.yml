@@ -6,33 +6,26 @@
   url: "/ai/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "ML&DL"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "NLP"
     url: "/design/typography/typography/"
-  - title: "Page/Post"
+  - title: "Big Data"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
+
 
 - title: "Computer Science"
   url: "/cs/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "컴퓨터 구조"
     url: "/design/grid/"
   - title: "Typography"
     url: "/design/typography/typography/"
   - title: "Page/Post"
     url: "/design/page/"
   - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
+
 
 
 - title: "Block Chain"
@@ -45,14 +38,7 @@
     url: "/design/header-image-pattern/"
   - title: "Header with image and color"
     url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+
 
 - title: Others
   url: "/documentation/"
