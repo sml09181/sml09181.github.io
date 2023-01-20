@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'HAPPY'
+title: 'Sujin......'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'A Flexible Theme for Jekyll'
@@ -21,12 +21,12 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 
 # Main author of the website
 # See > authors.yml
-author: Sujin
+author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://sml09181.github.io'
-baseurl: None
+baseurl: 'https://sml09181.github.io'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
