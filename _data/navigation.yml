@@ -39,7 +39,7 @@
   url: "/blockchain/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
+  - title: "Web3"
     url: "/design/header-full-width-image/"
   - title: "Header with Image and Pattern"
     url: "/design/header-image-pattern/"
