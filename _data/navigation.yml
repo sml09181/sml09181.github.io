@@ -41,7 +41,7 @@
 
 
 - title: Others
-  url: "/documentation/"
+  url: "/Others/"
   side: left
   dropdown:
   - title: "Changelog"
