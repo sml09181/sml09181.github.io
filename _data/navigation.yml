@@ -7,11 +7,14 @@
   side: left
   dropdown:
   - title: "ML&DL"
-    url: "/design/grid/"
+    url: "/ai/ml/"
   - title: "NLP"
     url: "/design/typography/typography/"
   - title: "Big Data"
     url: "/design/page/"
+      - title: "Projects"
+    url: "/design/projects/"
+
 
 
 - title: "Computer Science"
@@ -24,7 +27,9 @@
     url: "/design/typography/typography/"
   - title: "Page/Post"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "Projects"
+    url: "/design/projects/"
+  
 
 
 
@@ -38,16 +43,20 @@
     url: "/design/header-image-pattern/"
   - title: "Header with image and color"
     url: "/design/header-image-color/"
+  - title: "Projects"
+    url: "/design/projects/"
 
 
 - title: Others
-  url: "/Others/"
+  url: "/others/"
   side: left
   dropdown:
   - title: "Changelog"
     url: "/changelog/"
   - title: "Roadmap"
     url: "/roadmap/"
+  - title: "Projects"
+    url: "/design/projects/"
 
 
 - title: "Search"
