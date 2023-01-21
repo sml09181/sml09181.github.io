@@ -36,7 +36,7 @@ callforaction:
   url: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new
   text: Contact Me by Google Email ›
   style: mainbutton
-permalink: 
+permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
