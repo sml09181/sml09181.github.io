@@ -7,13 +7,13 @@
   side: left
   dropdown:
   - title: "ML&DL"
-    url: "/ai/ml/"
+    url: "/ai/mldl/"
   - title: "NLP"
-    url: "/design/typography/typography/"
+    url: "/ai/nlp/"
   - title: "Big Data"
-    url: "/design/page/"
+    url: "/ai/bigdata/"
   - title: "Projects"
-    url: "/design/projects/"
+    url: "/ai/projects/"
 
 
 
@@ -22,8 +22,8 @@
   side: left
   dropdown:
   - title: "컴퓨터 구조"
-    url: "/design/grid/"
-  - title: "Typography"
+    url: "/cs/grid/"
+  - title: "자료구조"
     url: "/design/typography/typography/"
   - title: "Page/Post"
     url: "/design/page/"
@@ -38,25 +38,25 @@
   side: left
   dropdown:
   - title: "Web3"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
+    url: "/blockchain/header-full-width-image/"
+  - title: "html"
+    url: "/blockchain/html/"
   - title: "Header with image and color"
-    url: "/design/header-image-color/"
+    url: "/blockchain/header-image-color/"
   - title: "Projects"
-    url: "/design/projects/"
+    url: "/blockchain/projects/"
 
 
 - title: Others
   url: "/others/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "a"
+    url: "/a/"
+  - title: "b"
+    url: "/b/"
   - title: "Projects"
-    url: "/design/projects/"
+    url: "/projects/"
 
 
 - title: "Search"
