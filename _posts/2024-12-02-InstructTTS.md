@@ -1,5 +1,5 @@
 ﻿---
-title: InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt
+title: InstructTTS-Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt
 author: Su
 date: 2024-12-02 15:00:00 +0800
 categories: [Paper Review]
