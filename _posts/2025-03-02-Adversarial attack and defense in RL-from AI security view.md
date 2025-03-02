@@ -1,5 +1,5 @@
 ﻿---
-title: 2025-03-02-Adversarial attack and defense in RL-from AI security view
+title: Adversarial attack and defense in RL-from AI security view
 author: Su
 date: 2025-03-02 11:00:00 +0800
 categories: [Paper Review]
